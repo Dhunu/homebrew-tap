@@ -26,7 +26,7 @@ cask "gitos" do
 
   zap trash: [
     "~/Library/Application Support/GitOS",
-    "~/Library/Caches/com.angelsaikia.GitOS",
-    "~/Library/Preferences/com.angelsaikia.GitOS.plist",
+    "~/Library/Caches/com.angelsaikia.gitos",
+    "~/Library/Preferences/com.angelsaikia.gitos.plist",
   ]
 end
