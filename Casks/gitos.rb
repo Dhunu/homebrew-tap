@@ -17,7 +17,7 @@ cask "gitos" do
   app "GitOS.app"
 
   caveats <<~EOS
-    GitOS requires macOS 27 or later on Apple silicon.
+    GitOS requires macOS 26 or later on Apple silicon.
 
     The app is not yet notarized by Apple. If macOS blocks the first launch,
     right-click GitOS in Applications and choose Open, or allow it under
