@@ -1,6 +1,6 @@
 cask "gitos" do
-  version "0.3.2"
-  sha256 "c9105baa03fbdda024b719af4861837f7694d195aa1f58c9f41ac79d69edf55a"
+  version "0.4.0"
+  sha256 "dc8b3ded78c019f27777f800bdf35ab847426b86e4a3c65a37129a6954444cc1"
 
   url "https://github.com/Dhunu/gitOS/releases/download/v#{version}/GitOS-#{version}.dmg"
   name "GitOS"
